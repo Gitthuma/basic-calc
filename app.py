@@ -16,3 +16,6 @@ elif op == '*':
 # Use elif statement to check if op is division and print the division of num1 and num2
 elif op == '/':
     print("The division is:", num1 / num2)
+# Use else statement to print out an invalid operator if none of the operators above re used
+else:
+    print("Invalid operator")

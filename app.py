@@ -13,3 +13,6 @@ elif op == '-':
 # Use elif statement to check if op is multiplication and print the product of num1 and num2
 elif op == '*':
     print("The multiplication is:", num1 * num2)
+# Use elif statement to check if op is division and print the division of num1 and num2
+elif op == '/':
+    print("The division is:", num1 / num2)

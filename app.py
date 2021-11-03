@@ -10,3 +10,6 @@ if op == '+':
 # Use elif statement to check if op is subtraction and print the difference of num1 and num2
 elif op == '-':
     print("The subtraction is:", num1 - num2)
+# Use elif statement to check if op is multiplication and print the product of num1 and num2
+elif op == '*':
+    print("The multiplication is:", num1 * num2)
